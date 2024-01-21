@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    url: "jdbc:postgresql://db.jmexryepywwjkmavvmzq.supabase.co:5432/postgres"
+    username: "postgres"
+    password: "^wns28056825"
+
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+
